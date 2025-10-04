@@ -73,8 +73,8 @@
 - [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1789368451/?envType=problem-list-v2&envId=linked-list)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1790337376/?envType=problem-list-v2&envId=linked-list)
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1790345602/?envType=problem-list-v2&envId=linked-list)
-- [25. Reverse Nodes in k-Group]()
-- [61. Rotate List]()
+- [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1791244778/?envType=problem-list-v2&envId=linked-list)
+- [61. Rotate List](https://leetcode.com/problems/rotate-list/submissions/1791265675/?envType=problem-list-v2&envId=linked-list)
 - [138. Copy List with Random Pointer]()
 - [Flattening a Linked List (GFG PRACTICE)]()
 
